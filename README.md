@@ -48,3 +48,5 @@ Reapers:*6
 
 How do you plan to make your game engaging? 
 The whole game will be made up of three indiviual mini games with varying genres(i.e: side scroller in the first, puzzle game in the second, and runner game in the third.)
+
+NOTE: Full Game not completed. This is only the concept page made for github. Platforms may vary.
