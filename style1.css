@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+/*p{
+    color: indigo;
+}*/
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: rgba(112, 227, 244, 0.82); 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+  display: flex;
+  flex-direction: column;
+    
+}
+.grid{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
